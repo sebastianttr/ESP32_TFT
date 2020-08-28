@@ -26,8 +26,9 @@ This project requires several components:
    * 1x 10uF 1206 Capacitor
    * 2x 22pF 0603 Capacitor 
    * 1x 12Mhz SMD Crystal 5.0 mm x 3.2 mm
+   ![Crystal](https://raw.githubusercontent.com/sebastianttr/ESP32_TFT/master/Crystal.PNG)
      * You will need this configuration. Make sure to look into the datasheet 
-     ![Crystal](https://raw.githubusercontent.com/sebastianttr/ESP32_TFT/master/Crystal.PNG)
+     
    
    * 2x SOT-23-3 BJT Tranistor of either types: MMBT1000 or MMBT2222
      * S8050 is also
