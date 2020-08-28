@@ -10,6 +10,6 @@ This project requires several components:
   ![Test Image 4](https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/C8/31/c5a4ec89-d064-4ed9-90bc-5f5fa804050a.jpg)
 * USB Type C Receptable
   * Make sure you select the correct receptable, this is the footprint
-  ![USBC](https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/C8/31/c5a4ec89-d064-4ed9-90bc-5f5fa804050a.jpg)
+  ![USBC](https://raw.githubusercontent.com/sebastianttr/ESP32_TFT/master/USBC.PNG)
 
 * CH340 USB to TTL Converter IC
