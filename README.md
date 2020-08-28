@@ -40,5 +40,6 @@ This project requires several components:
 # Before usage
   * Before using the device with the TFT touchscreen, make sure to jump these 2 pins above the touchscreen connector: 
   ![LED_TOUCH](https://raw.githubusercontent.com/sebastianttr/ESP32_TFT/master/LED_TOUCH.png)
+  
   These pins exist to set the brightness of the backlight. In this case, we connect the LED- pin from the touchscreen with 3.3V.
   
