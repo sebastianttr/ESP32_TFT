@@ -1,7 +1,7 @@
 # ESP32 2.4 inch TFT display driver
 A ESP32 TFT board with USB Type C and additional headers for adding sensors
 ![Test Image 2](https://raw.githubusercontent.com/sebastianttr/ESP32_TFT/master/ESP32_TFT.PNG)
-# Hardware Requirements
+# Parts List
 
 This project requires several components: 
 
@@ -13,3 +13,6 @@ This project requires several components:
   ![USBC](https://raw.githubusercontent.com/sebastianttr/ESP32_TFT/master/USBC.PNG)
 
 * CH340 USB to TTL Converter IC
+* LD1117 3V3 Regulator IC
+* [OPTIONAL] RFM95 for LoRaWAN
+* 2 SMD Buttons (6 mm X 3.9 mm)
