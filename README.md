@@ -1,5 +1,6 @@
 # ESP32 2.4 inch TFT display driver
-A ESP32 TFT board with USB Type C and additional headers for adding sensors
+A ESP32 TFT board with USB Type C and additional headers for adding sensors.
+
 ![Test Image 2](https://raw.githubusercontent.com/sebastianttr/ESP32_TFT/master/ESP32_TFT.PNG)
 # Parts List
 
