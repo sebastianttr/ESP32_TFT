@@ -31,7 +31,7 @@ This project requires several components:
        ![Crystal](https://raw.githubusercontent.com/sebastianttr/ESP32_TFT/master/Crystal.PNG)
    
    * 2x SOT-23-3 BJT Tranistor of either types: MMBT1000 or MMBT2222
-     * S8050 is also
+     * S8050 is also OK
 * LED
   * For LED, you can use whatever you like.
   * The LED Pin outputs 3.3V from the ESP32, in case you use a LED with a forward voltage lower than ~ 3.3V, you can calculate and add your own resistor at R10
