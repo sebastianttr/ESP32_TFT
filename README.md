@@ -15,4 +15,19 @@ This project requires several components:
 * CH340 USB to TTL Converter IC
 * LD1117 3V3 Regulator IC
 * [OPTIONAL] RFM95 for LoRaWAN
+   * If you decide on using LoRaWAN, make sure to also get a U.FL antenna connector 
 * 2 SMD Buttons (6 mm X 3.9 mm)
+* Passive components
+   * 4x 10kOhm 0805 Resistor
+   * 2x 5.1kOhm 0805 Resistor 
+   * 2x 12kOhm 0805 Resistor
+   * 1x Schottky Diode 1206 (the choice is yours)
+   * 2x 100nF 0805 Capacitor
+   * 1x 10uF 1206 Capacitor
+   * 2x 22pF 0603 Capacitor 
+   * 1x 12Mhz SMD Crystal 5.0 mm x 3.2 mm
+   * 2x SOT-23-3 BJT Tranistor of either types: MMBT1000 or MMBT2222
+     * S8050 is also
+* LED
+  * For LED, you can use whatever you like.
+  * The LED Pin outputs 3.3V from the ESP32, in case you use a LED with a forward voltage lower than ~ 3.3V, you can calculate and add your own resistor at R10
