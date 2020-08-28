@@ -36,3 +36,9 @@ This project requires several components:
 * LED
   * For LED, you can use whatever you like.
   * The LED Pin outputs 3.3V from the ESP32, in case you use a LED with a forward voltage lower than ~ 3.3V, you can calculate and add your own resistor at R10
+  
+# Before usage
+  * Before using the device with the TFT touchscreen, make sure to jump these 2 pins above the touchscreen connector: 
+  ![LED_TOUCH](https://raw.githubusercontent.com/sebastianttr/ESP32_TFT/master/LED_TOUCH.PNG)
+  These pins exist to set the brightness of the backlight. In this case, we connect the LED- pin from the touchscreen with 3.3V.
+  
